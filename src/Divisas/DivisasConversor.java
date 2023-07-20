@@ -7,12 +7,12 @@ public class DivisasConversor {
 	
 	public static void Monedas() {
 		
-		double euro =  4565.82 ;
-		double dolar = 4159.25 ;
-		double libra = 5340.89 ;
-		double Yen = 29.27 ;
+		double euro =  4565.82;
+		double dolar = 4159.25;
+		double libra = 5340.89;
+		double Yen = 29.27;
 		double Won = 3.20;
-		double Peuro =  0.00022 ;
+		double Peuro =  0.00022;
 		double Pdolar = 0.00024;
 		double Plibra = 0.00019;
 		double PYen = 0.034;
